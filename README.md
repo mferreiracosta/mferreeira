@@ -1,5 +1,5 @@
 ### "É melhor você tentar algo, vê-lo não funcionar e aprender com isso, do que não fazer nada."  
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mferreiracosta//)
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mferreiracosta)
 
 
 **Engenheiro de dados** com foco no desenvolvimento de data warehouses, sendo assim, criação de processos de ETL/ELT para que os analistas e cientistas de dados possam criar modelos e dashboards com os dados já tratados e devidamente carregados em seus data marts.
