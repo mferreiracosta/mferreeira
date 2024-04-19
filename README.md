@@ -63,6 +63,6 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=mferreiracosta&repo=Data_Science&theme=dark" />
 </a>
 
-<a href="https://github.com/mferreiracosta/data-engineering">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=mferreiracosta&repo=data-engineering&theme=dark" />
+<a href="https://github.com/mferreiracosta/Engenharia_de_Dados">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=mferreiracosta&repo=Engenharia_de_Dados&theme=dark" />
 </a>
