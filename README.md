@@ -17,17 +17,6 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 
 
-#### ⚙️ Engenharia de dados:
-![Airbyte](https://img.shields.io/badge/-Airbyte-black?style=flat-square&logo=Airbyte)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
-
-
-#### 🎲 Ciência de dados:
-![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
-![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
-![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
-
-
 #### 📚 Tenho conhecimento:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
@@ -37,9 +26,9 @@
 #### 🌱 Estou aprendendo:
 ![Airflow](https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=Apache-Airflow)
 ![dbt](https://img.shields.io/badge/-dbt-black?style=flat-square&logo=dbt)
-![Snowflake](https://img.shields.io/badge/-Snowflake-black?style=flat-square&logo=Snowflake)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
 ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=Apache-Spark)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
  
  
 <br>
