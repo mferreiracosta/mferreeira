@@ -41,6 +41,6 @@ Engenheiro de dados com foco no desenvolvimento de data warehouses, sendo assim,
 
 <b> ⚡ Principais Repositórios</b>:
 
-<a href="https://github.com/mferreiracosta/Engenharia_de_Dados">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=mferreiracosta&repo=Engenharia_de_Dados&theme=dark" />
+<a href="https://github.com/mferreiracosta/Portfolio">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=mferreiracosta&repo=Portfolio&theme=dark" />
 </a>
